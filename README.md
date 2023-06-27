@@ -1,6 +1,7 @@
 # text-to-script-with-Bing
 Translate what do you said and connect directly with Bing and the OpenAI API
 
+To connect we have to download the Cookie tracker and enter into the Bing chat page ( just in Microsoft Edge) once we were there, we have to copie the cookies and create a file, in my case I named it cookies.json, remember to download the json version of your cookies and paste it there, otherwise the system will not connect.
 
 This code connects directly with OpenAi whispers and record the things you said to find together with the OpenAi technology chatGPT. 
 
